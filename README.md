@@ -71,3 +71,4 @@ This is a RESTful web service for managing a bookstore, built with Spring Boot. 
 - **PUT /api/v1/genre/updateGenre/{id}**: Update genre
 - **DELETE /api/v1/genre/delete/{id}**: Delete genre
 
+![My Image] (https://github.com/Okafor-Samuel/BookStore/blob/main/Screen%20Shot%202024-07-03%20at%201.35.46%20PM.png)
