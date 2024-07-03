@@ -1,6 +1,5 @@
 ### README
 
-``markdown
 # Bookstore RESTful Web Service
 
 This is a RESTful web service for managing a bookstore, built with Spring Boot. It supports CRUD operations for books, authors, and genres.
@@ -111,7 +110,7 @@ By following these steps, you can keep your database credentials secure and make
 <img src="https://github.com/Okafor-Samuel/BookStore/blob/main/Screen%20Shot%202024-07-03%20at%201.55.10%20PM.png" />
 
 3. **Books List**: 
-<img src="https://github.com/Okafor-Samuel/BookStore/blob/main/Screen%20Shot%202024-07-03%20at%201.35.46%20PM.png" />
+<img src="https://github.com/Okafor-Samuel/BookStore/blob/main/Screen%20Shot%202024-07-03%20at%202.04.41%20PM.png" />
 
 4. **Genres List**: 
 <img src ="https://github.com/Okafor-Samuel/BookStore/blob/main/Screen%20Shot%202024-07-03%20at%201.58.57%20PM.png" />
@@ -127,5 +126,5 @@ By following these steps, you can keep your database credentials secure and make
 For any issues or inquiries, please contact [Samuel Okafor](mailto:Okaforsamuel1000@gmail.com).
 
 This comprehensive README should help you set up, understand, and utilize the Bookstore RESTful Web Service efficiently.
-``
+
 
