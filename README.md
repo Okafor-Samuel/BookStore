@@ -45,11 +45,11 @@ This is a RESTful web service for managing a bookstore, built with Spring Boot. 
 
 ### Authors
 
-- **GET /api/authors**: Get all authors
-- **GET /api/authors/{id}**: Get author by ID
-- **POST /api/authors**: Create new author
-- **PUT /api/authors/{id}**: Update author
-- **DELETE /api/authors/{id}**: Delete author
+- **GET /api/v1/authour/getAllAuthors**: Get all authors
+- **GET /api/v1/authour/getById**: Get author by ID
+- **POST /api/v1/authour/createAuthor**: Create new author
+- **PUT /api/v1/authour/updateAuthor**: Update author
+- **DELETE /api/v1/authour/delete**: Delete author
 
 ### Books
 
